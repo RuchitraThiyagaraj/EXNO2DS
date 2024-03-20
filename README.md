@@ -70,9 +70,11 @@ sns.heatmap(cross_tab, annot=True)
 plt.title('Heatmap of Pclass vs Survived')
 plt.show()
 ~~~
-# RESULT
+# OUTPUT
 ![image](https://github.com/RuchitraThiyagaraj/EXNO2DS/assets/154776996/552308ea-8bbe-45e4-b383-5c07ea95790f)
 ![image](https://github.com/RuchitraThiyagaraj/EXNO2DS/assets/154776996/65970f1e-c8d1-4041-a28d-ff189fd80e04)
 ![image](https://github.com/RuchitraThiyagaraj/EXNO2DS/assets/154776996/bd9f2bb1-9dfa-47c2-b4a1-b2a55e36a71a)
 ![image](https://github.com/RuchitraThiyagaraj/EXNO2DS/assets/154776996/71f09b3e-f139-4eba-8316-1a6f8a0fe25a)
 
+# RESULT
+Hence Exploratory Data Analysis on the given data set is executed successfully.
